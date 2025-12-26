@@ -2,7 +2,7 @@
 
 ## 🎂 À PROPOS DU PROJET
 
-Ce site web a été créé spécialement pour l'anniversaire de NS!!, artiste du label NS!! Records. Le projet combine une présentation professionnelle du catalogue musical avec une DA unique choisis par NS lui meme :)
+Ce site web qui était un projet local a été créé spécialement pour l'anniversaire de NS!!, artiste du label NS!! Records. Le projet combine une présentation professionnelle du catalogue musical avec une DA unique choisis par NS lui meme m'ayant donné l'autorisation de le partager sur github :)
 
 ## 🎵 DESCRIPTION
 
